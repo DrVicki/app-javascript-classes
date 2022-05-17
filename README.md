@@ -315,11 +315,14 @@ To keep such tracks I recommend having another class for Students/Readers. So I 
 
 While I was writing this, I changed a lot of things from what I had originally created so it can be useful for both small and large Libraries.
 
+## Conclusion:
+Can this code be actually used in a real app? Yes. To it's best capacity it is functioning efficiently. But remember the focus wasn't on the app but on JavaScript Classes. So that's pretty much it.
+
+[Library App in Repl.it](https://replit.com/@DrVicki/library-app#index.html)
+
 <details open>
 <summary>Here is the complete code fo Part 1</summary>
 <br>
-
-
 
 Complete Code:
 ```
@@ -461,10 +464,7 @@ art.borrowBook('Love is Bitter', 'Ariana Grande');
 art.borrowBook('Romeo and Juliet', 'William Shakespeare');
 art.returnBorrowedBooks(4029, 1);
 console.log(art.allBookedBooks);
-                                                         ```
+```
 </details>
 
-## Conclusion:
-Can this code be actually used in a real app? Yes. To it's best capacity it is functioning efficiently. But remember the focus wasn't on the app but on JavaScript Classes. So that's pretty much it.
 
-[Library App in Repl.it](https://replit.com/@DrVicki/library-app#index.html)
