@@ -316,7 +316,7 @@ To keep such tracks I recommend having another class for Students/Readers. So I 
 While I was writing this, I changed a lot of things from what I had originally created so it can be useful for both small and large Libraries.
 
 <details open>
-<summary>**Here is the complete code fo Part 1**</summary>
+<summary>Here is the complete code fo Part 1</summary>
 <br>
 
 
