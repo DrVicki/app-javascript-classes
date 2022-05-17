@@ -321,7 +321,7 @@ Can this code be actually used in a real app? Yes. To it's best capacity it is f
 [Library App in Repl.it](https://replit.com/@DrVicki/library-app#index.html)
 
 <details open>
-<summary>Here is the complete code fo Part 1</summary>
+<summary>Here is the complete code for Part 1</summary>
 <br>
 
 Complete Code:
