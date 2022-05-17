@@ -1,6 +1,6 @@
 # app-javascript-classes
 
-## Create a Library App using JavaSCript classes
+## Create a Library App using JavaScript classes
 
 
 ** About The App:
